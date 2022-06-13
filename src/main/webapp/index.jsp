@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>This is to test the Poll SCM</h2>
 </body>
 </html>
